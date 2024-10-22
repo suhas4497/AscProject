@@ -1,9 +1,15 @@
 <<<<<<< HEAD
+=======
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> dev1
 this file is modifies by dev1
-=======
 this file is modified by dev2
+<<<<<<< HEAD
+this file is modified by dev2
+=======
 >>>>>>> dev2
 =======
 this file is modified by dev2
 >>>>>>> dev2
+>>>>>>> dev1
